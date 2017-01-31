@@ -2,19 +2,10 @@
 
 ## Instructions
 
-Simply navigate to BA folder in terminal and type in `python -mSimpleHTTPServer` and navigate to `localhost:8000`
-
+* Clone repot and cd into it
+* Type in `python -mSimpleHTTPServer` then navigate to `localhost:8000`
 OR
-
-```
-$ npm install http-server -g
-```
-Determine path and type into terminal
-
-```
-$ http-server [path]
-```
-and navigate to `localhost:8080`
+* `npm install http-server -g`, determine the path of the folder, and then `http-server [path]`, then navigate to `localhost:8080`
 
 ### Write a short paragraph explaining the following:
 
