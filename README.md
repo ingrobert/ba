@@ -2,7 +2,7 @@
 
 ## Instructions
 
-* Clone repot and cd into it
+* Clone repo and cd into it
 * Type in `python -mSimpleHTTPServer` then navigate to `localhost:8000`
 OR
 * `npm install http-server -g`, determine the path of the folder, and then `http-server [path]`, then navigate to `localhost:8080`
